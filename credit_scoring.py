@@ -7,7 +7,7 @@ financial data using Logistic Regression, Decision Tree and Random Forest.
 To use your own data, replace `generate_data()` with a pandas read_csv call that
 returns a DataFrame with the same columns (see COLUMNS below) and a binary
 `default` target.
-"""cd 
+""" 
 import warnings
 import numpy as np
 import pandas as pd
